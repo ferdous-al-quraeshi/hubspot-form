@@ -8,7 +8,7 @@ const HubspotForm = () => {
     });
 
     return (
-        <div id="hubspot-form-wrapper" />
+        <span id="hubspot-form-wrapper" />
     )
 }
 
